@@ -13,6 +13,12 @@ Ini adalah panduan penggunaan Canvas Studio. Sila pergi ke [link ini](https://cs
 * [Sistem Fail](./Panduan/Sistem%20Fail.md)
 * [Sokongan AI](./Panduan/Sokongan%20AI.md)
 
+### Sampel Projek
+Turut disediakan di sini sampel projek untuk anda cuba. Sila klik link di bawah dan tekan ctrl + s untuk menyimpan projek tersebut. Kemudian buka projek itu dengan menggunakan aplikasi ini.
+
+* [Double v](./Samples/double%20v.csd)
+* [Lying](./Samples/lying.csd)
+
 ### Keperluan Sistem
 
 Pengguna digalakkan menggunakan Google Chrome. Pastikan hardware acceleration diaktifkan. Aplikasi ini menggunakan WebGL2, komputer yang tidak mempunyai GPU tidak dijamin mempunyai prestasi yang lancar. Buat ketika ini, telefon pintar dan skrin sentuh belum lagi disokong. 
